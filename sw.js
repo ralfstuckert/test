@@ -16,7 +16,7 @@ if (workbox) {
     ]);
 
     workbox.routing.registerRoute(
-        new RegExp('/static/*/(.*)'),
+        new RegExp('static/*/(.*)'),
         workbox.strategies.staleWhileRevalidate(),
     );
 
@@ -52,7 +52,7 @@ if (workbox) {
     )
 
     workbox.routing.registerRoute(
-        new RegExp("/*"),
+        new RegExp("*"),
         workbox.strategies.staleWhileRevalidate()
     );
 
