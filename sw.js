@@ -52,7 +52,7 @@ if (workbox) {
     )
 
     workbox.routing.registerRoute(
-        new RegExp(".*"),
+        new RegExp("*"),
         workbox.strategies.staleWhileRevalidate()
     );
 
