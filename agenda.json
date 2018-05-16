@@ -1,0 +1,44 @@
+{
+  "title": "Kickoff 2018",
+  "description": "Dieses Fliegen wir 1. Klasse non-stop vom kalten Frankfurt zum super-sonnigen Fuerteventura und feiern unser erfolgreiches Geschäftsjahr.",
+  "events": [
+    {
+      "title": "Flug von Frankfurt nach Fuerteventura mit Condor DE 6402",
+      "description": "Bitte erscheint mit Hose am Frankfurter Flughafen. Wir treffen uns in Gate 1 und laufen gemeinsam in Richtung Sicherheitskontrolle. Danach könnt ihr machen was ihr wollt. Zum Beispiel Einkaufen im schönen Flughafen-Geschäften. Am Ende versammeln wir uns im sonnigen Spanien.",
+      "begin": "2018-09-24T11:55Z",
+      "end": "2018-09-24T15:35Z"
+    },
+    {
+      "title": "Ankunft in Fuerteventura & Transfer zum ROBINSON Club",
+      "description": "Nach dem stressigen Flug lassen wir erstmal unsere Gliedmaßen entspannen im wunderschönen ROBINSON Club. Hier gibt es alles was das Compeople-Herz begehrt.",
+      "begin": "2018-09-24T15:35Z",
+      "end": "2018-09-24T19:30Z"
+    },
+    {
+      "title": "Zwei Alternativen zur Auswahl",
+      "description": "Wir haben Erfahren, dass einige Mitarbeiter Seekrank werden, wenn man sie zu lange schaukelt. Deshalb könnt ihr wählen:",
+      "begin": "2018-09-25T10:00Z",
+      "end": "2018-09-25T14:30Z",
+      "events": [
+        {
+          "title": "Segeltörn auf dem Katamaran Magic mit Mittagessen an Bord",
+          "description": "Wir betreten ein urisches und eigentlich nicht mehr seetaugliches Boot. Dort gibt es essen.",
+          "begin": "2018-09-25T10:00Z",
+          "end": "2018-09-25T14:30Z"
+        },
+        {
+          "title": "Zur freien Verfügung",
+          "description": "Wenn du kein Bock auf das Boot hast, dann mach doch was anderes. Im Inselzentrum gibt eine schöne Briefmarkenausstellung. Die ist bestimmt toll.",
+          "begin": "2018-09-25T10:00Z",
+          "end": "2018-09-25T14:30Z"
+        }
+      ]
+    },
+    {
+      "title": "Rückflug",
+      "description": "Nach dem megageilen Event geht es nun ins kalte Rhein-Main-Gebiet zurück. Wir nehmen die Sonne einfach mit, so dass es dann vorraussichtlich sehr warm sein wird.",
+      "begin": "2018-09-25T15:00Z",
+      "end": "2018-09-25T19:30Z"
+    }
+  ]
+}
