@@ -11,8 +11,13 @@ if (workbox) {
 
     workbox.precaching.precacheAndRoute([
 //        {url:'/static/js/bundle.js',revision:'1'},
-        {url:'materialize-css/materialize.min.js',revision:'1'},
-        {url:'materialize-css/materialize.min.css',revision:'1'}
+        {url: 'materialize-css/materialize.min.js', revision: '1'},
+        {url: 'materialize-css/materialize.min.css', revision: '1'},
+        {url: 'images/agenda.jpg', revision: '1'},
+        {url: 'images/contact.jpg', revision: '1'},
+        {url: 'images/logo.svg', revision: '1'},
+        {url: 'images/news.jpg', revision: '1'},
+        {url: 'images/welcome.jpg', revision: '2'}
     ]);
 
     workbox.routing.registerRoute(

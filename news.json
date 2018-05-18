@@ -1,0 +1,17 @@
+[
+  {
+    "user": "Britta",
+    "timestamp": "2018-09-24T15:35Z",
+    "message": "Vergesst bitte für den morgigen Ausflug eure Sonnencreme nicht."
+  },
+  {
+    "user": "Ralf",
+    "timestamp": "2018-09-23T15:35Z",
+    "message": "Ein lustiges [Bild](https://giphy.com/gifs/JIX9t2j0ZTN9S)."
+  },
+  {
+    "user": "Roman",
+    "timestamp": "2018-09-25T15:35Z",
+    "message": "Ich habe gestern beim Feiern in der Disco mein **Smartphone verloren**. Könnt ihr bitte gucken, ob ihr es findet? [So sieht es aus](https://de.wikipedia.org/wiki/Nokia_3210)."
+  }
+]
