@@ -4,7 +4,7 @@
   "events": [
     {
       "title": "Flug von Frankfurt nach Fuerteventura mit Condor DE 6402",
-      "description": "Bitte erscheint mit Hose am Frankfurter Flughafen. Wir treffen uns in Gate 1 und laufen gemeinsam in Richtung Sicherheitskontrolle. Danach könnt ihr machen was ihr wollt. Zum Beispiel Einkaufen im schönen Flughafen-Geschäften. Am Ende versammeln wir uns im sonnigen Spanien.",
+      "description": "Bitte erscheint mit Hose am [Frankfurter Flughafen](https://www.google.de/maps/@50.0475854,8.5606041,15z). Wir treffen uns am **Gate 1** und laufen gemeinsam in Richtung Sicherheitskontrolle. Danach könnt ihr machen was ihr wollt. Zum Beispiel Einkaufen im schönen Flughafen-Geschäften. Am Ende versammeln wir uns im sonnigen Spanien.",
       "begin": "2018-09-24T11:55Z",
       "end": "2018-09-24T15:35Z"
     },
